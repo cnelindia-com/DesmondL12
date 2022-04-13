@@ -1,0 +1,20 @@
+[30-Dec-2021 15:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/customer/www/app.jusixty.com/public_html/application/views/dashboard.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.jusixty.com/public_html/application/views/dashboard.php on line 50
+[30-Dec-2021 15:56:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/customer/www/app.jusixty.com/public_html/application/views/payroll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.jusixty.com/public_html/application/views/payroll.php on line 5
+[30-Dec-2021 15:57:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/customer/www/app.jusixty.com/public_html/application/views/resetpassword.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.jusixty.com/public_html/application/views/resetpassword.php on line 7
+[30-Dec-2021 16:07:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/customer/www/app.jusixty.com/public_html/application/views/employees.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.jusixty.com/public_html/application/views/employees.php on line 27
+[30-Dec-2021 16:08:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/customer/www/app.jusixty.com/public_html/application/views/changepassword.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/app.jusixty.com/public_html/application/views/changepassword.php on line 59
